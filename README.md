@@ -1,14 +1,4 @@
-# CS510-SE-Project
-
-## In one sentence describe what your program will do once completed.
-The application will simplify receipt data captured using OCR - google cloud vision and allow users to collaborate on tracking expenses.
-
-## With your group, choose a programming language. What language are you using and why?
-Frontend - Javascript and React.js - As React.js is widely used frontend library
-Backend - Python - For its extensibility and ease of learning
-Database - Postgres / MongoDB
-Hosting - Google cloud 
-
+Developed a cloud-based application that automates the extraction and analysis of receipt data using AI. Leveraged Google Cloud Vision API for OCR and Gemini Pro LLM for interpreting scanned content with 95% accuracy. Deployed the solution using Docker and Google Cloud Run to enable scalable, serverless execution. Integrated Google Cloud Storage to manage and retrieve receipt files efficiently. This project helps users simplify expense tracking by eliminating manual data entry and organizing receipts automatically.
 
 
 
